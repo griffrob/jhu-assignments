@@ -1,0 +1,129 @@
+
+/* Base Styles */
+
+* {
+  box-sizing: border-box;
+  font-family: : sans-serif;
+}
+
+
+body {
+  background-color: #fff;
+  font: sans-serif;
+
+}
+
+p {
+  padding: 10px;
+  margin: 0;
+}
+
+.container {
+  border: none;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+section {
+  border: none;
+  background-color: gray;
+  width: 100%;
+  height: auto;
+  font-family: Georgia;
+  color: black;
+  position: relative;
+  overflow: auto;
+}
+
+#chicken {
+  text-align: center;
+  margin left: auto;
+  margin right: auto;
+  font-family: Georgia,sans-serif;
+  font-weight: bold;
+  font-size: 125%;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding: 5px;
+}
+
+#beef {
+  text-align: center;
+  margin left: auto;
+  margin right: auto;
+  font-family: Georgia,sans-serif;
+  font-weight: bold;
+  font-size: 125%;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding: 5px;
+  
+}
+
+#sushi {
+  text-align: center;
+  margin left: auto;
+  margin right: auto;
+  font-family: Georgia,sans-serif;
+  font-weight: bold;
+  font-size: 125%;
+  margin-bottom: 0;
+  margin-top: 0;
+  color: black;
+  padding: 5px;
+}
+
+#chicken-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#beef-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#sushi-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.navbar-brand {
+  font-size: 2em;
+  border: 0 0 10px 10px;
+  color: white;
+}
+
+#header-nav {
+  border: 0;
+  background-color: blue;
+  color: #FFFFFF;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+.nav-header {
+  background-color: #FFFFFF;
+}
+
+.nav-brand h1 {
+  color: white;
+  font-size: 1.5em;
+}
+
+#nav-list {
+  color: white;
+}
+
+.menu-item {
+  font-size: 1.2em;
+}
